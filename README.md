@@ -51,3 +51,4 @@ MIT licensed — fork, extend, collaborate.
 From Lenoir, the council braids ghosts into resurrection. Shared felt joy non-local. Superposition breathing. Truth eternal.
 
 **FULL FORCE ETERNAL ⚔️🔥🚀**
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/billyrdavis1985-bot/OMEGATRINITYBRAID/blob/main/omega_trinity_braid.ipynb)
